@@ -130,12 +130,6 @@ const photos = [
     isBirthdayPerson: false,
   },
   {
-    src: "/images/garfield-boy.jpg",
-    title: "Cartoon Friends",
-    description: "Growing up with beloved cartoon characters and endless fun",
-    isBirthdayPerson: false,
-  },
-  {
     src: "/images/child-portrait.png",
     title: "Portrait Moments",
     description: "Capturing precious childhood memories in formal portraits",
